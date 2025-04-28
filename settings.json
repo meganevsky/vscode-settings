@@ -3,7 +3,7 @@
     "workbench.activityBar.location": "top",
     "editor.fontFamily": "Fira Code",
     "editor.fontSize": 16,
-    "editor.lineHeight": 23,
+    "editor.lineHeight": 24,
     "editor.rulers": [120],
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
@@ -15,8 +15,9 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
 
-    // "window.zoomLevel": 0.2,
+    "window.zoomLevel": 0.2,
     "window.density.editorTabHeight": "compact",
+    "window.openFoldersInNewWindow": "on",  // открывать проект в новом окне
 
     "git.autofetch": true,
     "cSpell.language": "en,ru",
