@@ -21,6 +21,8 @@
 
     "git.autofetch": true,
     "cSpell.language": "en,ru",
+    "cSpell.blockCheckingWhenTextChunkSizeGreaterThan": 1000,
+    "cSpell.diagnosticLevel": "Hint",
     // Автоматически изменять предложения автозаполнения на основе предыдущего выбора
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 
@@ -45,5 +47,7 @@
         "*": true,
         "snippets": true
     },
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredLightColorTheme": "Catppuccin Latte",
+    "workbench.preferredDarkColorTheme": "Catppuccin Frappé"
 }
