@@ -49,5 +49,6 @@
     },
     "workbench.iconTheme": "material-icon-theme",
     "workbench.preferredLightColorTheme": "Catppuccin Latte",
-    "workbench.preferredDarkColorTheme": "Catppuccin Frappé"
+    "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
+    "git.confirmSync": false
 }
